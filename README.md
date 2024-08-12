@@ -1,4 +1,4 @@
-# Calculator-java.github.io
+# Calculator-java
 
 The program contains a menu with 4 options:
 
